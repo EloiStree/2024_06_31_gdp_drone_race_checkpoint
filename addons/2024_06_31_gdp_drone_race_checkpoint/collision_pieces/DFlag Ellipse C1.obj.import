@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dh3wx66cn7qsc"
+path="res://.godot/imported/DFlag Ellipse C1.obj-42d19b9f0049bb01389afc14c21ba81f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/DFlag Ellipse C1.obj-42d19b9f0049bb01389afc14c21ba81f.mesh"]
+
+source_file="res://addons/2024_06_31_gdp_drone_race_step/collision_pieces/DFlag Ellipse C1.obj"
+dest_files=["res://.godot/imported/DFlag Ellipse C1.obj-42d19b9f0049bb01389afc14c21ba81f.mesh", "res://.godot/imported/DFlag Ellipse C1.obj-42d19b9f0049bb01389afc14c21ba81f.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false
