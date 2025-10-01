@@ -1,2 +1,2 @@
-# 2024_06_31_gdp_drone_race_checkpoint
+# Drone Race Checkpoint
 Assets of checkpoint to constitute a drone race.
