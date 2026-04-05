@@ -3,16 +3,16 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://chbjnvjo2nuwa"
-path.etc2="res://.godot/imported/DFlag Pentagone .001 2.png-aa59c644b10f23b846e54da2bc4179d4.etc2.ctex"
+path.s3tc="res://.godot/imported/DFlag Pentagone .001 2.png-aa59c644b10f23b846e54da2bc4179d4.s3tc.ctex"
 metadata={
-"imported_formats": ["etc2_astc"],
+"imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://addons/2024_06_31_gdp_drone_race_checkpoint/texture_uv/DFlag Pentagone .001 2.png"
-dest_files=["res://.godot/imported/DFlag Pentagone .001 2.png-aa59c644b10f23b846e54da2bc4179d4.etc2.ctex"]
+dest_files=["res://.godot/imported/DFlag Pentagone .001 2.png-aa59c644b10f23b846e54da2bc4179d4.s3tc.ctex"]
 
 [params]
 

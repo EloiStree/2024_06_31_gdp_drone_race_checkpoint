@@ -3,16 +3,16 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d3er7xa6cwlh3"
-path.etc2="res://.godot/imported/DFlag Ellipse.002 2.png-115cbc4b20061c1dac8f315e02cdfbda.etc2.ctex"
+path.s3tc="res://.godot/imported/DFlag Ellipse.002 2.png-115cbc4b20061c1dac8f315e02cdfbda.s3tc.ctex"
 metadata={
-"imported_formats": ["etc2_astc"],
+"imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://addons/2024_06_31_gdp_drone_race_checkpoint/texture_uv/DFlag Ellipse.002 2.png"
-dest_files=["res://.godot/imported/DFlag Ellipse.002 2.png-115cbc4b20061c1dac8f315e02cdfbda.etc2.ctex"]
+dest_files=["res://.godot/imported/DFlag Ellipse.002 2.png-115cbc4b20061c1dac8f315e02cdfbda.s3tc.ctex"]
 
 [params]
 
